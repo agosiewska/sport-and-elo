@@ -10,3 +10,5 @@ Each file corresponds to one data set from the OpenML database. To inspect a dat
 
 
 - Folder `data` contains saved partial results from the script `compare_sport_elo.R`.
+
+In Elo terms, model with defined set of hyperparameters is a player, train/test cross-validation splits are matches.
